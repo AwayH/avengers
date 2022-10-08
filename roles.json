@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Star-Lord",
+    "desc": "Even Star-Lord disappears.",
+    "src": "5c9a640b92c8864524614895.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Pepper Potts",
+    "desc": "Pepper Potts also survived.",
+    "src": "5c9a641692c886449015d942.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Gamora",
+    "desc": "Gamora had already been murdered by Thanos.",
+    "src": "5c9a640c92c88641ac5983a5.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Okoye",
+    "desc": "Okoye will want to avenge her king.",
+    "src": "5c9a640c92c88641aa17e646.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Shuri",
+    "desc": "Shuri was previously believed to be alive.",
+    "src": "5c9a640b92c88641aa17e645.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Captain Marvel",
+    "desc": "Captain Marvel is ready to join the team.",
+    "src": "5c9a640b92c88641ac5983a3.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Valkyrie",
+    "desc": "Valkyrie, one of Thor's major allies, also survived the snap.",
+    "src": "5c9a640c92c88644841ed3a4.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Doctor Strange",
+    "desc": "Doctor Strange seemed at peace with his own disappearance.",
+    "src": "5c9a640b92c8864482335125.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Scarlet Witch",
+    "desc": "Scarlet Witch disappeared just after watching Thanos kill her boyfriend.",
+    "src": "5c9a640b92c88644841ed3a3.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Nebula",
+    "desc": "Nebula, though not technically a Guardian, also survived.",
+    "src": "5c9a641592c88641b72bf612.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Vision",
+    "desc": "Vision, one of the Avengers' most powerful assets, died a painful death.",
+    "src": "5c9a640b92c8864524614894.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Ant-Man",
+    "desc": "Ant-Man skipped the battles in Infinity War, but he's back.",
+    "src": "5c9a640b92c88644841ed3a2.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Drax",
+    "desc": "She was closely followed by Drax.",
+    "src": "5c9a640b92c8864482335126.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Iron Man",
+    "desc": "Iron Man eventually makes it back home.",
+    "src": "5c9a5f4392c88643fc169325.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Spider-Man",
+    "desc": "Spider-Man's disappearance was one of the film's most heartbreaking scenes.",
+    "src": "5c9a640c92c8864f2a6e3a25.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Hulk",
+    "desc": "We may see the Hulk fight another battle.",
+    "src": "5c9a640c92c886447a50a758.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Mantis",
+    "desc": "Mantis was the first of the Guardians of the Galaxy to disappear.",
+    "src": "5c9a640b92c8864f2c0b1984.webp",
+    "isAlive": false
+  },
+  {
+    "name": "War Machine",
+    "desc": "War Machine fought in the Battle of Wakanda and survived the Snappening.",
+    "src": "5c9a640b92c8864f2a6e3a24.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Rocket",
+    "desc": "Rocket is the only Guardian who survived.",
+    "src": "5c9a640b92c88641ac5983a4.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Groot",
+    "desc": "Back on Earth, Groot also turned to dust.",
+    "src": "5c9a640d92c8864f1c24ae9d.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Thor",
+    "desc": "Thor has a score to settle.",
+    "src": "5c9a640b92c886447a50a757.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Happy Hogan",
+    "desc": "Iron Man fans will be thrilled that Happy Hogan is still around.",
+    "src": "5c9a640c92c8864f2c0b1985.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Black Panther",
+    "desc": "Black Panther disappears while trying to help his friend.",
+    "src": "5c9a640b92c8864f1c24ae9c.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Loki",
+    "desc": "Loki was one of the first victims in Infinity War.",
+    "src": "5c9a640b92c886419b22a8b9.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Black Widow",
+    "desc": "Black Widow is sporting a similar hair color.",
+    "src": "5c9a601192c8864e316af855.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Winter Soldier",
+    "desc": "The Winter Soldier fell victim to the Thanos snap.",
+    "src": "5c9a640b92c886452b3f8914.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Falcon",
+    "desc": "Falcon disappeared in the jungle of Wakanda.",
+    "src": "5c9a640b92c886452b3f8915.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Captain America",
+    "desc": "Captain America is ready to suit up.",
+    "src": "5c9a641692c886453960c182.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Nick Fury's",
+    "desc": "Nick Fury's disappearance was revealed in the end credits scene of Infinity War.",
+    "src": "5c9a640b92c8864526030f72.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Wong",
+    "desc": "Wong is an important supporting character.",
+    "src": "5c9a641692c88641bc6cf1f2.webp",
+    "isAlive": true
+  },
+  {
+    "name": "Wasp",
+    "desc": "The Wasp disappeared offscreen.",
+    "src": "5c9a640c92c8864526030f73.webp",
+    "isAlive": false
+  },
+  {
+    "name": "Hawkeye",
+    "desc": "Hawkeye is back after a brief hiatus.",
+    "src": "5c9a641592c8864f3d2d2192.webp",
+    "isAlive": true
+  }
+]
